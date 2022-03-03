@@ -15,11 +15,12 @@ socio3 = float (input('inversion socio numero 3 '))
 suma=socio1+socio2+socio3
 
 s1=(socio1*100)/suma
-s2=(socio1*100)/suma
-s3=(socio1*100)/suma
+s2=(socio2*100)/suma
+s3=(socio2*100)/suma
 
 
-print("valor para el area de telecomunicaciones",telecomunicaciones)
-print("valor para el area de sistemas ",sistemas)
-print("valor para e area de administracion",administracion)
-print("valor para el area de contabilidad",contabilidad)
+print("porcentaje socio 1 ",s1)
+
+print("porcentaje socio 2 ",s2)
+
+print("porcentaje socio 3 ",s3)
