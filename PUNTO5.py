@@ -18,7 +18,5 @@ pdiseño=(diseño*100)/numeroalumnos
 
 
 print("porcentaje de estudiantes de redes ",predes)
-
 print("porcentaje de estudiantes de contabilidad ",pcontabilidad)
-
 print("porcentaje de estudiantes de diseño ",pdiseño)

@@ -20,7 +20,5 @@ s3=(socio2*100)/suma
 
 
 print("porcentaje socio 1 ",s1)
-
 print("porcentaje socio 2 ",s2)
-
 print("porcentaje socio 3 ",s3)

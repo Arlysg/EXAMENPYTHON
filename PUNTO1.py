@@ -8,7 +8,7 @@ Created on Wed Mar  2 19:21:16 2022
 """
 
 
-VALORDONADO = float (input('VALOR DONADO'))
+VALORDONADO = float (input('VALOR DONADO '))
 
 
 telecomunicaciones=VALORDONADO*0.10
