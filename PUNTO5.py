@@ -9,6 +9,7 @@ redes = float (input('Numero de alumnos de redes ' ))
 contabilidad = float (input('Numero de alumnos de contabilidad ' ))
 diseño = float (input('Numero de alumnos de diseño ' ))
 
+
 numeroalumnos=redes+contabilidad+diseño
 
 
